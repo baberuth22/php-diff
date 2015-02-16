@@ -1,7 +1,7 @@
 PHP Diff Class
 --------------
 
-This library has not been updated in a while, so I am making any necessary changes in this fork.
+The original chrisboulton/php-diff library has not been updated in a while, so I am making any necessary changes in this fork.
 
 ~ baberuth22 - Bryan Saltzman
 
